@@ -1,5 +1,11 @@
 # @taujs/server
 
+> ⚠️ **Archived - moved to τjs monorepo.**
+> `@taujs/server` now found at **[aoede3/taujs](https://github.com/aoede3/taujs)** under
+> [`packages/server`](https://github.com/aoede3/taujs/tree/main/packages/server), where all
+> development, issues, and releases continue. History migrated in full though commit hashes in
+> _this_ repo predate move and won't resolve in the monorepo.
+
 https://www.taujs.dev
 
 This package is part of the τjs [ taujs ] orchestration system, authored by John Smith | Aoede, 2024-present. Attribution is appreciated.
